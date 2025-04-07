@@ -118,12 +118,12 @@ h3{
     font-family: "Cormorant Garamond", serif;
     font-style: italic;
     font-size: 5vw;
-    color: #bdb7ad;
+    color: #8f8a82;
 }
 h4{
     font-family: "Mulish", sans-serif;
     font-style: italic;
-    color: #bdb7ad;
+    color: #8f8a82;
     text-decoration:overline;
 }
 p{
@@ -152,7 +152,7 @@ p{
     left: 0;
     bottom: 0;
     width: 0;
-    background: #bdb7ad;
+    background: #8f8a82;
     transition: width .9s;
 }
 #git{
@@ -169,7 +169,7 @@ p{
     left: 0;
     bottom: 0;
     width: 0;
-    background: #bdb7ad;
+    background: #8f8a82;
     transition: width .9s;
 }
 #port{
@@ -186,7 +186,7 @@ p{
     left: 0;
     bottom: 0;
     width: 0;
-    background: #bdb7ad;
+    background: #8f8a82;
     transition: width .9s;
 }
 #mail:hover::after,
